@@ -58,3 +58,11 @@ B dataset(20 of real image, 80 of AI images)
 
 #### False Positive
 ![output (1)](https://github.com/user-attachments/assets/03826c5c-0c08-4f46-b9db-e93e8d2c0091)
+
+#### mAP & IoU
+
+![output (5)](https://github.com/user-attachments/assets/d59ea2fa-c9d3-4e88-828d-9e4ca19c8a52)
+
+
+
+
