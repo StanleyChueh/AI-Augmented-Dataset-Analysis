@@ -1,8 +1,8 @@
 # AI-Augmented-Dataset-Analysis
-I am conducting a comparative analysis of machine learning model performance using datasets composed of AI-generated and real images, focusing on key metrics like True Positives, False Positives, Precision, Recall, and F1-Score.
+I am conducting a comparative analysis of machine learning model(Yolov5) performance using datasets composed of AI-generated and real images, focusing on key metrics like True Positives, False Positives, Precision, Recall, and F1-Score.
 
 ## Introduction
-A dataset: Total of 100 images, and all were taken by camera(size=>320x240)
+A dataset: Total of 100 images, and all were taken by camera
 
 => [Real_100.zip](https://github.com/user-attachments/files/16643139/Real_100.zip)
 
